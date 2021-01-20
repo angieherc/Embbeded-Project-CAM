@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
-
-  <h3 align="center"> Aerial camera prototype </h3>
- <a>
-    <img src="event-cam.png" alt="" width="80" height="80">
+  <a>
+    <<img src="event-cam.png" alt="" width="80%">
   </a>
-</p>
 
+  <h3 align="center">Aerial camera prototype </h3>
+
+ 
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
