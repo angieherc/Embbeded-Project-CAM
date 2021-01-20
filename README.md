@@ -3,7 +3,7 @@
 <p align="center">
 
   <h3 align="center"> Aerial camera prototype </h3>
- <img src="event-cam.png" alt="">
+ <img src="event-cam.png" alt="" width="80" height="80">
 </p>
 
 
